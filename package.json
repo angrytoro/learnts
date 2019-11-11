@@ -1,0 +1,20 @@
+{
+  "name": "learnts",
+  "version": "1.0.0",
+  "description": "本人闲来无事，尝试总结下一些ts笔记，希望能对组内的同学在学习ts的时候有所帮助",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angrytoro/learnts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angrytoro/learnts/issues"
+  },
+  "homepage": "https://github.com/angrytoro/learnts#readme",
+  "dependencies": {}
+}
